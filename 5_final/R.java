@@ -1,0 +1,5 @@
+class R{
+	final R(){
+	
+	}
+}
